@@ -4,7 +4,7 @@
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blackoilskin)
 
-## Features:
+## Features 
 
 - Shows HTTP status code & reason
 - Prints a preview of the page's text content
