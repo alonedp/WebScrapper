@@ -2,6 +2,8 @@
 
 🐍 A simple Python script to fetch HTTP status, page text snippet, and all image links from any website. Built with `requests` & `BeautifulSoup` for learning purposes.
 
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blackoilskin)
+
 ## Features
 
 - Shows HTTP status code & reason
@@ -19,5 +21,3 @@
 git clone https://github.com/alonedp/WebScrapper.git
 cd WebScrapper
 pip install -r requirements.txt
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram)](https://t.me/blackoilskin)
