@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alonedp/alonedp/main/webscrapper.png" width="100%" />
+</p>
 # WebScrapper
 
 🐍 A simple Python script to fetch HTTP status, page text snippet, and all image links from any website. Built with `requests` & `BeautifulSoup` for learning purposes.
