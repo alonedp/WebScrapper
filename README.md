@@ -19,3 +19,5 @@
 git clone https://github.com/alonedp/WebScrapper.git
 cd WebScrapper
 pip install -r requirements.txt
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram)](https://t.me/blackoilskin)
