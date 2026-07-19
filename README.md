@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alonedp/alonedp/main/Webscrapper.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/alonedp/WebScrapper/main/Webscrapper.png" width="100%" />
 </p>
 # WebScrapper
 
